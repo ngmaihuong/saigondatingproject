@@ -1,3 +1,0 @@
-# Data are fun until...
-they don't say what you want.
-
