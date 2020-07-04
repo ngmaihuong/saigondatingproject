@@ -1,7 +1,6 @@
 title: t(h)inker
-author:
-  name: Nguyễn Mai Hương
-  email: maihuongnguyen1603@gmail.com
+author: Nguyễn Mai Hương
+email: maihuongnguyen1603@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Dự án thử nghiệm 3 tháng với chủ đề Hẹn hò ở Thành phố Hồ Chí Minh, Việt Nam.
 show_excerpts: false # set to true to show excerpts on the homepage
