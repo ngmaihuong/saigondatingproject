@@ -8,4 +8,4 @@ theme: minima
 facebook_username: heydudeimneko
 github_username:  ngmaihuong
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
