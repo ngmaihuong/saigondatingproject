@@ -1,25 +1,12 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+title: t(h)inker
+author: Nguyễn Mai Hương
+email: maihuongnguyen1603@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Dự án thử nghiệm 3 tháng với chủ đề Hẹn hò ở Thành phố Hồ Chí Minh, Việt Nam.
+theme: minima
 
-# Permalinks
-permalink:        pretty
+# social links
+github_username:  ngmaihuong
+facebook_username: saigondatingproject
 
-# Setup
-title:            t(h)inker
-tagline:          'hmm'
-description:      'Dự án thử nghiệm 3 tháng với chủ đề Hẹn hò ở Thành phố Hồ Chí Minh, Việt Nam.'
-url:              http://facebook.com/saigondatingproject/
-baseurl:          /
-
-author:
-  name:           'Nguyễn Mai Hương'
-  url:            https://github.com/ngmaihuong
-
-paginate:         5
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/ngmaihuong/saigondatingproject-su20
+show_excerpts: true
