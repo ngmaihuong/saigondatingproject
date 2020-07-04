@@ -1,16 +1,25 @@
 title: t(h)inker
-logo: /assets/img/Logo Black.png
-description: Dự án thử nghiệm 3 tháng với chủ đề Hẹn hò ở Sài Gòn, Việt Nam. 
-show_downloads: false
-theme: jekyll-theme-minimal
+author:
+  name: Nguyễn Mai Hương
+  email: maihuongnguyen1603@gmail.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  Dự án thử nghiệm 3 tháng với chủ đề Hẹn hò ở Thành phố Hồ Chí Minh, Việt Nam.
+show_excerpts: false # set to true to show excerpts on the homepage
 
-#author: Nguyễn Mai Hương
-#email: maihuongnguyen1603@gmail.com
-#description: > # this means to ignore newlines until "baseurl:"
-#theme: jekyll-theme-minimal
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
 
-# social links
-#facebook_username: heydudeimneko
-#github_username:  ngmaihuong
+  # generate social links in footer
+  social_links:
+    github:  ngmaihuong
+    linkedin: huongsierranguyen
 
-#show_excerpts: false # set to false to remove excerpts on the homepage
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+theme: minima
