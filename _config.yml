@@ -1,24 +1,26 @@
-title: t(h)inker
-author: Nguyễn Mai Hương
-email: maihuongnguyen1603@gmail.com
-description: > # this means to ignore newlines until "show_excerpts:"
-  Dự án thử nghiệm 3 tháng với chủ đề Hẹn hò ở Thành phố Hồ Chí Minh, Việt Nam.
-show_excerpts: false # set to true to show excerpts on the homepage
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
 
-  # generate social links in footer
-  social_links:
-    github:  ngmaihuong
-    linkedin: huongsierranguyen
+# Setup
+title:            t(h)inker
+tagline:          'hmm'
+description:      'Dự án thử nghiệm 3 tháng với chủ đề Hẹn hò ở Thành phố Hồ Chí Minh, Việt Nam.'
+url:              http://facebook.com/saigondatingproject/
+baseurl:          /
 
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+author:
+  name:           'Nguyễn Mai Hương'
+  url:            https://github.com/ngmaihuong
 
-# Build settings
-theme: minima
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/ngmaihuong/saigondatingproject-su20
