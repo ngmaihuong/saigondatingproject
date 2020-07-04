@@ -7,7 +7,6 @@
 #
 layout: home
 title: Home
-permalink: /index/
 ---
 # Data are fun until...
 
