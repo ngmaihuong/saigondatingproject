@@ -1,4 +1,9 @@
 title: t(h)inker
+logo: /assets/img/Logo Black.png
+description: Dự án thử nghiệm 3 tháng với chủ đề Hẹn hò ở Sài Gòn, Việt Nam. 
+show_downloads: false
+theme: jekyll-theme-minimal
+
 #author: Nguyễn Mai Hương
 #email: maihuongnguyen1603@gmail.com
 #description: > # this means to ignore newlines until "baseurl:"
@@ -9,8 +14,3 @@ title: t(h)inker
 #github_username:  ngmaihuong
 
 #show_excerpts: false # set to false to remove excerpts on the homepage
-
-logo: /assets/img/Logo Black.png
-description: Dự án thử nghiệm 3 tháng với chủ đề Hẹn hò ở Sài Gòn, Việt Nam. 
-show_downloads: false
-theme: jekyll-theme-minimal
