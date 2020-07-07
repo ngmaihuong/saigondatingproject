@@ -10,3 +10,6 @@ github_username:  ngmaihuong
 facebook_username: saigondatingproject
 
 show_excerpts: false
+
+plugins:
+  - jemoji
