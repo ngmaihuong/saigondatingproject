@@ -6,7 +6,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-permalink: https://ngmaihuong.github.io/
 ---
 # Data are fun until...
 
