@@ -20,7 +20,7 @@ The way Saigon Dating Project works is that, once the users respond to our surve
 1. **Marketing Data Analytics**: The respondent's personal information such as e-mail addresses are removed from the exported data in order to maintain anonymity. The data will be visualized and analyzed to: 
     - inform the team of how to proceed with our upcoming activities;
     - inform the audience about the dating trends and preferences for educational purposes.
-2. **User Matching**: The respondent's profile is matched with top 5 most compatible profiles using our algorithm built with Python. This compatibility score calculation are based on two pop-psychological classification systems, namely *Myers-Briggs Type Indicator (MBTI)* and *Five Love Languages*. After matches are produced, a certain number of random couples are invited to our [event](https://www.facebook.com/events/693552397922277/) taking place in HCMC.
+2. **Users Matching**: The respondent's profile is matched with top 5 most compatible profiles using our algorithm built with Python. This compatibility score calculation are based on two pop-psychological classification systems, namely *Myers-Briggs Type Indicator (MBTI)* and *Five Love Languages*. After matches are produced, a certain number of random couples are invited to our [event](https://www.facebook.com/events/693552397922277/) taking place in HCMC.
 
 For more information about the project, visit [Saigon Dating Project](https://www.facebook.com/saigondatingproject/).
 
