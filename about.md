@@ -22,6 +22,8 @@ The way Saigon Dating Project works is that, once the users respond to our surve
     - inform the audience about the dating trends and preferences for educational purposes.
 2. **Users Matching**: The respondent's profile is matched with top 5 most compatible profiles using our algorithm built with Python. This compatibility score calculation are based on two pop-psychological classification systems, namely *Myers-Briggs Type Indicator (MBTI)* and *Five Love Languages*. After matches are produced, a certain number of random couples are invited to our [event](https://www.facebook.com/events/693552397922277/) taking place in HCMC.
 
+The roles I play in this project include **Co-Project Manager**, **Human Resources Officer** and **Marketing Data Analyst**. My main analytical tool for this project is **R** and its *ggplot2* package.
+
 For more information about the project, visit [Saigon Dating Project](https://www.facebook.com/saigondatingproject/).
 
 This repository contains data reports and visualizations from our Marketing data analyses as we go. For codes, visit [my Github](https://github.com/ngmaihuong/saigondatingproject-su20).
