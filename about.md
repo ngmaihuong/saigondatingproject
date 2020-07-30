@@ -13,7 +13,7 @@ permalink: /about/
 To accomplish this goal, we develop a [Qualtrics survey](https://bit.ly/3erPyMY) which covers a wide range of topics, from demographics, personal preferences when it comes to dating partners to a personality test based on pop-psychological classification systems, namely *Myers-Briggs Type Indicator (MBTI)* and *Five Love Languages*. Towards the end of the survey, we have an optional section where we dive deep into the respondents sense of self, their concerns and challenges when it comes to romantic relationships and their opinions on dating programs/organizations. The number of responses that we have received so far exceeds our modest initial expectations, with more than 500 responses from various demographic groups.
 
 <p align="center">
-  <img src="https://github.com/ngmaihuong/saigondatingproject/blob/master/assets/img/PinpostSDP.png"  width="400">
+  <img src="https://github.com/ngmaihuong/saigondatingproject/blob/master/assets/img/PinpostSDP.png?raw=true"  width="400">
 </p>
 
 The way Saigon Dating Project works is that, once the users respond to our survey, their responses will then go into two separate processes:
