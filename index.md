@@ -7,4 +7,5 @@
 #
 layout: home
 ---
-## Saigon Dating Project
+# Saigon Dating Project
+A 3-month experimental project by a group of thirteen Vietnamese youths studying all over the globe to explore the dating and romantic relationship landscape in Ho Chi Minh City, Vietnam.
